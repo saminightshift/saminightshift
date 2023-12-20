@@ -207,10 +207,5 @@ Contributed to frontend for MiProject software suite built using VueJS, Twig and
 
 </div>
 
-<div style="text-align:center">
-
-  ![saminightshift's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saminightshift&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</div>
-
 ---
 
